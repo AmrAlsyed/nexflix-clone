@@ -14,6 +14,7 @@
     "jsx": "preserve",
     "incremental": true,
     "typeRoots": ["./node_modules/@types", "./node_modules/@prisma/client"],
+    "types": ["node"],
     "paths": {
       "@/*": ["./*"]
     }
